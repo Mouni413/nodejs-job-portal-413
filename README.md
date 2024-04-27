@@ -17,7 +17,8 @@
     
 # jobs
   - create job
-    - post with user jwt token -https://nodejs-job-portal-413.onrender.com/api/v1/job/create-job
+    - post with user jwt token
+    - https://nodejs-job-portal-413.onrender.com/api/v1/job/create-job
     - company,position is required
   - get jobs
     - get with user jwt token 
