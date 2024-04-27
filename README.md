@@ -14,7 +14,8 @@
   - put with jwt token 
   - https://nodejs-job-portal-413.onrender.com/api/v1/user/update-user
   - name,lastname,email,location
-#jobs
+    
+# jobs
   - create job
     - post with user jwt token -https://nodejs-job-portal-413.onrender.com/api/v1/job/create-job
     - company,position is required
