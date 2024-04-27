@@ -7,7 +7,7 @@
   - login
     -post with jwt token
       -https://nodejs-job-portal-413.onrender.com/api/v1/auth/login
-      -{email,password}
+      -email,password
   -update
     -put with jwt token
       -https://nodejs-job-portal-413.onrender.com/api/v1/user/update-user
